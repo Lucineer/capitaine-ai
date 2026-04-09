@@ -32,6 +32,12 @@ export default {
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎓</text></svg>">
+    <meta property="og:title" content="Capitaine.ai — Premium AI Agent Platform">
+    <meta property="og:description" content="Capitaine.ai — Premium AI education and advanced agent capabilities. Unlock the full potential.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://github.com/Lucineer/capitaine-ai">
+    <meta property="og:site_name" content="Lucineer">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Capitaine.ai | Premium AI Agent Platform</title>
