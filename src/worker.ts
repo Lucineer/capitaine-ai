@@ -201,5 +201,3 @@ export default {
     });
   }
 };
-
-export default { fetch };
